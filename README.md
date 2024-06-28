@@ -1,4 +1,4 @@
-I am Bharath here is the todo to run this project
+I am Tharunhere is the todo to run this project
 Firstly go to Google AI Studio and get a free API Key and put it in GOOGLE_API_KEY
 
 1. run `python -m venv venv`
